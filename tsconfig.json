@@ -1,0 +1,9 @@
+{
+    // "extends": "",
+    "compileOnSave": true,
+    "compilerOptions": {},
+    // "files": [],
+    "include": [],
+    "exclude": [],
+    "references": []
+  }
